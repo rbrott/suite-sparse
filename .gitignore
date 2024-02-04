@@ -220,3 +220,7 @@ ssget/files/ssstats_old.csv
 # Do not ignore this file
 !.gitignore
 
+
+/zig-cache
+/zig-out
+
